@@ -1,0 +1,19 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "웹개발자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JeongHwa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^5.22.4",
+    "supervisor": "^0.12.0"
+  }
+}
